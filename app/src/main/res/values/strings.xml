@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="hint_name"><font size="15">HINT </font></string>
+</resources>
