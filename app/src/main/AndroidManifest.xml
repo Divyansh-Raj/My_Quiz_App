@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyQuiz">
         <activity
+            android:name=".splashActivity"
+            android:exported="true"
+
+            />
+        <activity
             android:name=".ResultActivity"
             android:exported="true" />
         <activity
