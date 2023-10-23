@@ -32,7 +32,7 @@
 
         android:layout_below="@id/tv_lash"
 
-        tools:src="@drawable/rabbit_man_transformed_transformed"
+        android:src="@drawable/rabbit_man_transformed_transformed"
 
         >
     </ImageView>
@@ -70,6 +70,14 @@
 
         android:textColor="@color/white"
         android:gravity="center"/>
+
+    <ProgressBar
+        android:id="@+id/idPBLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_quizapp"
+        android:layout_centerInParent="true"
+        android:indeterminateTint="@color/white" />
 
 
 
