@@ -38,7 +38,7 @@
             android:layout_height="200dp"
             android:padding="10dp"
             android:layout_marginTop="20dp"
-            tools:src="@drawable/canada"
+            android:src="@drawable/canada"
             >
         </ImageView>
 
